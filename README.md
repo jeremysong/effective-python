@@ -1,0 +1,1 @@
+Sample code for Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition.
